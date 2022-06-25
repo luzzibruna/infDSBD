@@ -1,4 +1,4 @@
-arquivo teste_alteradoaqui para a aula de git
+arquivo teste_alteradoaqui para a aula de git_novadiferente
 adicionando nova linha
 mais uma nova linha
 mais mais uma nova linha aqui
@@ -10,3 +10,4 @@ essa linha foi add dps do slide de tags
 add mais uma nova linha slide diff
 
 add mais essa linha slide branch
+linhadiferenteaqui
