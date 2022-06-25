@@ -2,3 +2,5 @@ arquivo teste para a aula de git
 adicionando nova linha
 mais uma nova linha
 mais mais uma nova linha aqui
+mais uma linha
+essa eh mais uma nova linha de teste
