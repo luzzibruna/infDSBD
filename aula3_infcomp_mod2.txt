@@ -1,4 +1,4 @@
-arquivo teste para a aula de git
+arquivo teste_altereiaqui para a aula de git
 adicionando nova linha
 mais uma nova linha
 mais mais uma nova linha aqui
@@ -6,3 +6,5 @@ mais uma linha
 essa eh mais uma nova linha de teste
 
 essa linha foi add dps do slide de tags
+
+linha add slide branch
